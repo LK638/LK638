@@ -1,0 +1,13 @@
+# Good Afternoon with ShinyR
+## Table of Contents
+> Web application?
+> แนะนำ shiny R
+> การพัฒนา web application ด้วย Shiny R
+>> โครงสร้างของ Shiny web application
+>> กิจกรรม 1: Hello Shiny
+>> กิจกรรม 2: ลองสร้างฝั่ง ui
+>> กิจกรรม 3: จัดระเบียบหน้า ui
+>> กิจกรรม 4: ลองสร้างส่วนประมวลผลในฝั่ง server
+>> กิจกรรม 5: ลองอีกครั้งนึง
+> Interactive Histogram
+> Machine Learning web app
